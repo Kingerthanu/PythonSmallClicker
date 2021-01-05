@@ -4,9 +4,8 @@ This Git Repo is small and simple consisting of a 'main.py' method in which invo
 This game is simple as its a Clicker Game consisting of you receiving ever increasing points for the more clicks you do,
 ______________________________________________________________________________________________________________________________
 The Controls:
-  
-  Enter: Clear/Restart. (Cannot Clear when score == 0)
-  Mouse1: Correct Clicking of Box Object causes +1 to score.
+Enter: Clear/Restart. (Cannot Clear when score == 0)
+Mouse1: Correct Clicking of Box Object causes +1 to score.
  
 ______________________________________________________________________________________________________________________________
 
