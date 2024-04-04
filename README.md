@@ -3,8 +3,6 @@
 This Git Repo is small and simple consisting of a 'main.py' method in which invokes a pygame.
 This game is simple as its a Clicker Game consisting of you receiving ever increasing points for the more clicks you do,
 
-<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/7b78dddc-6e9f-49ec-a472-43747ec94e85" alt="Cornstarch <3" width="125" height="109">
-
 ______________________________________________________________________________________________________________________________
 
 The Controls:
@@ -15,5 +13,7 @@ ________________________________________________________________________________
 
 This is a sample or base for me as well as the reader to use to work ontop of to improve pygame knowledge, as well as other
 educational knowledge. 
+
+<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/7b78dddc-6e9f-49ec-a472-43747ec94e85" alt="Cornstarch <3" width="125" height="109">
 
 ![2024-01-0923-22-09-ezgif com-optimize](https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/e4204d2a-5a15-457d-bfdf-743bef5e9db1)
