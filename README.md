@@ -19,6 +19,11 @@ ________________________________________________________________________________
 
 **The Breakdown:**
 
+
+
+<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49">
+
+
 ______________________________________________________________________________________________
 
 This is a sample or base for me as well as the reader to use to work ontop of to improve pygame knowledge, as well as other
