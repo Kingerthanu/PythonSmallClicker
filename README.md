@@ -14,7 +14,7 @@ Mouse1: Correct Clicking of Box Object causes +1 to score.
 ______________________________________________________________________________________________
 
 
-<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/d7e870ac-27d5-4717-9595-3e3bc9529d46" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/d7e870ac-27d5-4717-9595-3e3bc9529d46" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/d7e870ac-27d5-4717-9595-3e3bc9529d46" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/d7e870ac-27d5-4717-9595-3e3bc9529d46" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/d7e870ac-27d5-4717-9595-3e3bc9529d46" alt="Cornstarch <3" width="55" height="49">
 
 
 **The Breakdown:**
