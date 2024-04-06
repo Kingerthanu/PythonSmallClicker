@@ -33,3 +33,7 @@ ________________________________________________________________________________
 <img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/7b78dddc-6e9f-49ec-a472-43747ec94e85" alt="Cornstarch <3" width="125" height="109">
 
 ![2024-01-0923-22-09-ezgif com-optimize](https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/e4204d2a-5a15-457d-bfdf-743bef5e9db1)
+
+
+<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/2fbcc201-6f73-42d8-a97d-2a41cf457c95" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/2fbcc201-6f73-42d8-a97d-2a41cf457c95" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/2fbcc201-6f73-42d8-a97d-2a41cf457c95" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/2fbcc201-6f73-42d8-a97d-2a41cf457c95" alt="Cornstarch <3" width="55" height="49">
+
