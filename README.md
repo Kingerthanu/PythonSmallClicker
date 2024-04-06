@@ -26,8 +26,9 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________
 
-This is a sample or base for me as well as the reader to use to work ontop of to improve pygame knowledge, as well as other
-educational knowledge. 
+<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/8ce1a9da-0c57-4291-9df7-03a713356b63" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/8ce1a9da-0c57-4291-9df7-03a713356b63" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/8ce1a9da-0c57-4291-9df7-03a713356b63" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/8ce1a9da-0c57-4291-9df7-03a713356b63" alt="Cornstarch <3" width="55" height="49">
+
+**Features:**
 
 <img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/7b78dddc-6e9f-49ec-a472-43747ec94e85" alt="Cornstarch <3" width="125" height="109">
 
