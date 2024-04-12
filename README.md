@@ -23,6 +23,8 @@ This Python Program Uses A Pygame Window In Order To Make A Small Clicker Game.
 
 This Game Consists Of An Array Of Entities In Which Are Randomly Placed Within The Screen, Represented As Squares (In This Case Only One Is Being Spawned At A Time). 
 
+A Entity Simply Wraps A Given Square In A Specified "Blue" Sprite Texture And Contains Its Own Collision Detection Being Analyzed During Every On Click Check Used By Pygame.
+
 The User Will Use His Cursor To Click On These Squares And When Clicked, Will Delete The Entity And Spawn A New One While Incrementing The Point Counter Up + 1 As Seen In The Top Left Corner.
 
 This Was One Of My First Real Projects And Is Super Simple. Was Quite Revolutionary For Me At The Time As This Was One Of My First Times Working With A Front-End Project And Even Quite Trivial Things Like Collision With A Square Seemed Otherworldly To My Feeble Coconut Brain.
