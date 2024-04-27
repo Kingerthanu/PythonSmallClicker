@@ -1,4 +1,4 @@
-# PythonSmallClicker
+# Python_BoxClicker
 
 This Git Repo is small and simple consisting of a 'main.py' method in which invokes a pygame.
 This game is simple as its a Clicker Game consisting of you receiving ever increasing points for the more clicks you do,
